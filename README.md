@@ -6,9 +6,11 @@ BTT SKR MINI E3 v3.0
 https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/blob/master/hardware/BTT%20SKR%20MINI%20E3%20V3.0/Hardware/BTT%20SKR%20MINI%20E3%20V3.0%20user%20manual.pdf  
 Had to solder some wires  
 Fan connections:  
-Fan0: motherboard fan  
-Fan1: part cooling(??) this is the soldered wires to a 2 pin connector  
-Fan2: "cnc fan" hotend  
+https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/issues/585  
+The correct fans wiring are  
+FAN0: Prints part cooling  
+FAN1: Hotend fan   
+FAN2: board cooling fan  
 Touchscreen cable: double check PWR and RST(dangly end). The connections are labeled on the back side of the board.  
 
 BTT TFT35-E3 V3.0.1  
