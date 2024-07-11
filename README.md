@@ -26,3 +26,12 @@ https://youtu.be/DodRRgZf5Lo?t=334
 Teaching Tech  
 BTT TFT35 dual mode touch screen guide  
 https://www.youtube.com/watch?v=l1Putn10_Ek  
+
+
+# Notes on previous modifications:
+- Added CRTouch
+- Reversed Extruder Direction(unknown why necessary)
+- Firmware for board - https://github.com/haqbany/Bigtreetouch-SKR-Mini-E3V3.0/releases v5.0
+-   could not use stock SKR Mini E3 V3.0 firmware variations(printer not found)
+-   also using haqbany preheat functions not working
+- Latest firmware for TFT35
